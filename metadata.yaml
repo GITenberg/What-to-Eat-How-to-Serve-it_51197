@@ -1,0 +1,27 @@
+_repo: What-to-Eat-How-to-Serve-it_51197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herrick, Christine Terhune
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '37734'
+    url: http://www.gutenberg.org/2009/agents/37734
+    wikipedia: http://en.wikipedia.org/wiki/Christine_Terhune_Herrick
+description: ''
+gutenberg_issued: '2016-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51197'
+  lccn: 08023674
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Menus'
+- !lcc 'TX'
+- !lcsh 'Cooking'
+- GITenberg
+title: What to Eat, How to Serve it
+url: http://www.gutenberg.org/ebooks/51197
